@@ -1,0 +1,2836 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.6.1",
+    "uniqCompNum": 7,
+    "versionPublish": "3.11.1",
+    "name": "yoga mix",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#e25041",
+        "dangerColor": "#f28281",
+        "titleFont": "Roboto Condensed",
+        "subtitleFont": "Oswald",
+        "textFont": "Oswald",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "snow": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Yoga Classes | Yoga Studios Jacksonville, Neptune, Atlantic, Ponte Vedra Beach, Florida",
+        "meta_descr": "Enjoy yoga classes at the Jacksonville Beaches&rsquo; best yoga studio &ndash; Yoga Mix in Neptune Beach, Florida. We offer a variety of yoga classes for women, men and kids, including heated power yoga,  &ldquo;mixed&rdquo; level, family-hour, and private.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-size": "60px",
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".btn": {
+              "font-size": "13px"
+            },
+            "SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "23px"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/h93a6532-2000x1343-56.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "KUNDALINI YOGA",
+                "showText": true,
+                "text": "Serving Neptune Beach, Florida and the greater Jacksonville Area and Jacksonville Beaches! Proud to be voted Voted #1 in the 904 Five Years in a Row<br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CALENDRIER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"testimonials.html\" data-toolbar=\"-mbrBtnMove\">TESTIMIGNAGES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"gallery.html\" data-toolbar=\"-mbrBtnMove\">GALLERIE</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/yoga-mix0692-2000x1333-25.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#3d8eb9",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "YOGA MIX.<br>MIX IT UP ON THE MAT.",
+                "showText": true,
+                "text": "Serving Neptune Beach, Florida and the greater Jacksonville Area and Jacksonville Beaches! Proud to be voted Voted #1 in the 904 Five Years in a Row<br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW SCHEDULE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"testimonials.html\" data-toolbar=\"-mbrBtnMove\">TESTIMONIALS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"gallery.html\" data-toolbar=\"-mbrBtnMove\">GALLERY</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/h93a6308-2000x1333-18.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.1",
+                "overlayColor": "#76cfbd",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Kundalini Yoga",
+                "showText": false,
+                "text": "<span style=\"font-style: normal;\">Serving Neptune Beach, Florida and the greater Jacksonville Area and Jacksonville Beaches! Proud to be voted&nbsp;</span>Voted #1 in the 904 Five Years in a Row",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW SCHEDULE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"testimonials.html\" data-toolbar=\"-mbrBtnMove\">TESTIMONIALS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"gallery.html\" data-toolbar=\"-mbrBtnMove\">GALLERY</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-0",
+          "articleLayout": false
+        },
+        {
+          "_name": "header2",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "H3": {
+              "font-size": "46px"
+            }
+          },
+          "_anchor": "header2-0",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/h93a6485-2000x1340-18.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/h93a6437-1400x933-77.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "map",
+              "family": "et-line",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "NAMASTE",
+          "text": "All you need is an open mind, <br>a willing heart and  a desire to explore.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"aboutus.html\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
+        },
+        {
+          "_name": "image1",
+          "_styles": {
+            "DIV": {
+              "color": "#f3c649"
+            }
+          },
+          "_anchor": "image1-0",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yoga-mix080-1400x933-25.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "First class FREE for locals, no registration necessary...just show up!"
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.15",
+            "fontName": {
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/xxx-1-577x128.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Bekundalini</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURS &amp; INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Classes.html\">Our Classes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rates.html\">Yoga Mix Rates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-8&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-101&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Yoga Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=42\" target=\"_blank\">Gift Certificates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding_yoga.html\">Wedding Morning Yoga</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">A PROPOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Our Mix</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Mix Info &amp; FAQs</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\">TEMOIGNAGES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">&nbsp;GALLERIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px",
+              "text-align": "right",
+              "color": "#ffffff"
+            }
+          },
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-0",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bekundalini1oct.gif",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#475577"
+          },
+          "text": "GET CONNECTED",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/yoga.mix/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/yogamixjax/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        }
+      ]
+    },
+    "gallery.html": {
+      "settings": {
+        "title": "Yoga Classes | Yoga Studios Jacksonville, Neptune, Atlantic, Ponte Vedra Beach, Florida",
+        "meta_descr": "Enjoy yoga classes at the Jacksonville Beaches&rsquo; best yoga studio &ndash; Yoga Mix in Neptune Beach, Florida. We offer a variety of yoga classes for women, men and kids, including heated power yoga,  &ldquo;mixed&rdquo; level, family-hour, and private.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "font-size": "46px"
+            },
+            "SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-0",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "0",
+            "bgColor": "#7e9b9f",
+            "showMeta": true
+          },
+          "title": "THE MIX",
+          "meta": "<span style=\"font-style: normal;\">yoga mix photo gallery &amp; boutique pictures</span>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/h93a6437-2000x1333-89-2000x1333-55.jpg",
+                "image": "@PROJECT_PATH@/assets/images/h93a6437-2000x1333-89.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yoga-mix080-2000x1333-20-2000x1333-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/yoga-mix080-2000x1333-20.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/h93a6308-2000x1333-81-2000x1333-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/h93a6308-2000x1333-81.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/h93a6491-2000x1333-68-2000x1333-26.jpg",
+                "image": "@PROJECT_PATH@/assets/images/h93a6491-2000x1333-68.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yoga-mix069-2000x1333-56-2000x1333-68.jpg",
+                "image": "@PROJECT_PATH@/assets/images/yoga-mix069-2000x1333-56.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/h93a6532-2000x1343-86-2000x1343-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/h93a6532-2000x1343-86.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/h93a6503-2000x1334-59-2000x1334-67.jpg",
+                "image": "@PROJECT_PATH@/assets/images/h93a6503-2000x1334-59.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yoga-mix028-2000x1333-27-2000x1333-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/yoga-mix028-2000x1333-27.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/h93a6562-2-2000x1333-92-2000x1333-29.jpg",
+                "image": "@PROJECT_PATH@/assets/images/h93a6562-2-2000x1333-92.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/h93a6500-2-2000x1333-31-2000x1333-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/h93a6500-2-2000x1333-31.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/h93a6289-2000x1333-60-2000x1333-0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/h93a6289-2000x1333-60.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/h93a6285-2000x1333-67-2000x1333-79.jpg",
+                "image": "@PROJECT_PATH@/assets/images/h93a6285-2000x1333-67.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "0",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-0",
+          "articleLayout": false
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-0",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yoga-mix080-1400x933-25.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "First class FREE for locals, no registration necessary...just show up!"
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.15",
+            "fontName": {
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-128x128-80.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Bekundalini</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURS &amp; INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Classes.html\">Our Classes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rates.html\">Yoga Mix Rates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-8&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-101&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Yoga Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=42\" target=\"_blank\">Gift Certificates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding_yoga.html\">Wedding Morning Yoga</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">A PROPOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Our Mix</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Mix Info &amp; FAQs</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\">TEMOIGNAGES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">&nbsp;GALLERIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/beach-2000x453-41.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "GET CONNECTED",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/yoga.mix/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/yogamixjax/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/icon-128x128-7.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1112 Third St #10<br>Neptune Beach, FL 32266<br>LOCATED NEXT TO JARBOE PARK",
+          "text2": "<strong>contact</strong><br><a href=\"mailto:yoga-mix@mail.com\">yoga-mix@mail.com</a><br>\nPhone:&nbsp;904-626-0003",
+          "text3": "<p><strong>Links</strong><br><a href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" target=\"_blank\">SCHEDULE</a><br><a href=\"aboutus.html\">ABOUT US</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></p>"
+        }
+      ]
+    },
+    "testimonials.html": {
+      "settings": {
+        "title": "Yoga Classes | Yoga Studios Jacksonville, Neptune, Atlantic, Ponte Vedra Beach, Florida",
+        "meta_descr": "Enjoy yoga classes at the Jacksonville Beaches&rsquo; best yoga studio &ndash; Yoga Mix in Neptune Beach, Florida. We offer a variety of yoga classes for women, men and kids, including heated power yoga,  &ldquo;mixed&rdquo; level, family-hour, and private.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          },
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-0",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/yoga-mix069-2000x1333-6.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "TESTIMONIALS",
+          "text": "<p>You can read + post more reviews online | <b>Click here</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/h93a6491-2000x1333-84.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#7e9b9f",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "KIND WORDS",
+          "text": "<br>\"I always enjoy visiting the studio. I have experienced a beautiful variety of styes from relaxing to fun and sporty, which is just the way I like it. Everyone has also been extremely friendly. Thank you for providing this nice atmosphere.\"<br><br>\"Hands down, best yoga studio around. Excellent teachers. And Im very picky... love.\"<br><br>\"After taking a break from group practice for a couple of years and doing my own thing I was ready to step into a studio again and practice with a like minded group. After sampling a few studios I just fell in love with Yoga Mix. As a long time yogini and a teacher for many years I'm pretty particular about how my heart feels in a space. As a bodyworker I also have such respect for a space that encourages a safe practice and high respect for \"every - body\". YM checks all boxes. I am grateful to consider myself part of the family. Namaste\"<br><br>\"Warm and welcoming. Easy to sink in to. Smiling faces, inviting atmosphere. Perfect place to challenge yourself, or nurture yourself-whatever the day or moment calls for. All the good stuff. Highly recommend!\"<br><br>\"Awesome environment with powerful instructors for all levels.\"<br><br>\"This is my favorite Jax area Yoga studio. Affordable, clean, friendly, fun, challenging and suitable for all levels. Great teachers make a big difference! 5 Stars!\"<br><br>\"Knowledgeable, professional yoga instructor with a passion for teaching. Inviting, friendly atmosphere. A totally wonderful experience.\"<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.facebook.com/pg/yoga.mix/reviews/?ref=page_internal\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">POST A REVIEW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://clients.mindbodyonline.com/classic/mainclass?fl=true&amp;tabID=7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TAKE A CLASS</a>"
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-0",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yoga-mix080-1400x933-25.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "First class FREE for locals, no registration necessary...just show up!"
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#648286"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#759498!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#7e9b9f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.15",
+            "fontName": {
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-128x128-80.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Bekundalini</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURS &amp; INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Classes.html\">Our Classes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rates.html\">Yoga Mix Rates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-8&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-101&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Yoga Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=42\" target=\"_blank\">Gift Certificates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding_yoga.html\">Wedding Morning Yoga</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">A PROPOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Our Mix</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Mix Info &amp; FAQs</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\">TEMOIGNAGES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">&nbsp;GALLERIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "GET CONNECTED",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/yoga.mix/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/yogamixjax/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/icon-128x128-7.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1112 Third St #10<br>Neptune Beach, FL 32266<br>LOCATED NEXT TO JARBOE PARK",
+          "text2": "<strong>contact</strong><br><a href=\"mailto:yoga-mix@mail.com\">yoga-mix@mail.com</a><br>\nPhone:&nbsp;904-626-0003",
+          "text3": "<p><strong>Links</strong><br><a href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" target=\"_blank\">SCHEDULE</a><br><a href=\"aboutus.html\">ABOUT US</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></p>"
+        }
+      ]
+    },
+    "wedding_yoga.html": {
+      "settings": {
+        "title": "Yoga Classes | Yoga Studios Jacksonville, Neptune, Atlantic, Ponte Vedra Beach, Florida",
+        "meta_descr": "Enjoy yoga classes at the Jacksonville Beaches&rsquo; best yoga studio &ndash; Yoga Mix in Neptune Beach, Florida. We offer a variety of yoga classes for women, men and kids, including heated power yoga,  &ldquo;mixed&rdquo; level, family-hour, and private.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px",
+              "color": "#000000",
+              "text-align": "right"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "18px",
+              "text-align": "right",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/weddingbeachyoga-2000x1339-96.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "FROM THIS DAY FORWARD",
+          "text": "<br>Wedding Morning Yoga offers the perfect start to your special day.  We customize the practice to meet your specific needs along with the needs of your guests.   Take a moment to embrace the biggest day of your life.  We have a beautiful MIX if you choose to incorporate music, we can allow the ocean to serenade you through your practice or we also offer a live and unplugged blend that will melt your heart.  We can meet you on location in the greater Jacksonville and surrounding areas or host here at the studio in beautiful Neptune Beach, Florida.  This amazing start to your day will allow you to wake up the body, slow down the mind and savor the importance of the moments created.  After a beautiful savasana, (final resting pose) we will have a champagne toast to honor your special day.  <br>     From this day forward...<br><br>*Pricing varies based on location, number of people and choice of music (additional fee for live acoustic blend). <br> Please contact studio for more information.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"testimonials.html\" data-toolbar=\"-mbrBtnMove\">READ TESTIMONIALS</a> "
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-0",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yoga-mix080-1400x933-25.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "First class FREE for locals, no registration necessary...just show up!"
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.15",
+            "fontName": {
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-128x128-80.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Bekundalini</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURS &amp; INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Classes.html\">Our Classes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rates.html\">Yoga Mix Rates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-8&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-101&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Yoga Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=42\" target=\"_blank\">Gift Certificates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding_yoga.html\">Wedding Morning Yoga</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">A PROPOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Our Mix</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Mix Info &amp; FAQs</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\">TEMOIGNAGES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">&nbsp;GALLERIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/beach-2000x453-95.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "GET CONNECTED",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/yoga.mix/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/yogamixjax/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/icon-128x128-7.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1112 Third St #10<br>Neptune Beach, FL 32266<br>LOCATED NEXT TO JARBOE PARK",
+          "text2": "<strong>contact</strong><br><a href=\"mailto:yoga-mix@mail.com\">yoga-mix@mail.com</a><br>\nPhone:&nbsp;904-626-0003",
+          "text3": "<p><strong>Links</strong><br><a href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" target=\"_blank\">SCHEDULE</a><br><a href=\"aboutus.html\">ABOUT US</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></p>"
+        }
+      ]
+    },
+    "rates.html": {
+      "settings": {
+        "title": "Yoga Classes | Yoga Studios Jacksonville, Neptune, Atlantic, Ponte Vedra Beach, Florida",
+        "meta_descr": "Enjoy yoga classes at the Jacksonville Beaches&rsquo; best yoga studio &ndash; Yoga Mix in Neptune Beach, Florida. We offer a variety of yoga classes for women, men and kids, including heated power yoga,  &ldquo;mixed&rdquo; level, family-hour, and private.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          },
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-0",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/yoga-mix052b-2000x1278-15.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "YOGA MIX RATES",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">First class FREE for locals, no registration necessary...just show up!</span><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "content7-0",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgColor": "#638489"
+          },
+          "text1": "<p><b>Yoga Mix Rates</b></p><p>Drop In Single Class $15</p><p><span style=\"line-height: 1.5;\">4 Class Pack: $52&nbsp;</span><br></p><p>6 Class Pack: $72 &nbsp;&nbsp;</p><p>8 Class Pack: $88 &nbsp; &nbsp;</p><p>20 Class Pack: $180 &nbsp;&nbsp;</p><p>50 Class Pack: $400 &nbsp;&nbsp;</p><p>1 Month Unlimited: $95</p><p>3 Month Unlimited: $240</p><p>Yearly UNLIMITED: $780</p><p><span style=\"line-height: 1.5;\"><b><a href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=41&amp;sTG=22\" target=\"_blank\">Click here to purchase Class Packages&nbsp;</a></b></span></p><p><span style=\"line-height: 1.5;\"><b><br></b></span></p><p><span style=\"line-height: 1.5;\"><b>BEST DEAL</b></span></p><p><span style=\"line-height: 1.5;\">Monthly Unlimited w/ annual membership $70</span></p><p><span style=\"line-height: 1.5;\"><b><a href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=40&amp;prodId=100\" target=\"_blank\">Sign up for Monthly Auto Pay HERE</a></b></span></p>",
+          "text2": "<p><b>Intro Offer (New students)</b></p><p>5 Classes for $25</p><p>*offer vaild for new students,  must be purchased  at studio offer not available online</p><p><b><br></b></p><p><b>Student Packages:&nbsp;</b></p><p>Drop in Single Class: $12</p><p>5 Class Pack: $50</p><p><span style=\"line-height: 1.5;\">&nbsp;*Must present vaild student ID</span><br></p><p><br></p><p><b>Private lessons are per hour at the studio. &nbsp;</b></p><p>Private Lesson: $75  | Private 6 Pack: $420 | Private 12 Pack: $780 | Private 20 Pack: $1,200&nbsp;</p><p>On-site individual &amp; group lessons available. </p><p><b> <a href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-9&amp;sView=week&amp;sLoc=0\" target=\"_blank\">Click Here for Private Yoga&nbsp;</a></b></p>",
+          "text3": "<p><b>GIFT CERTIFICATES AVAILABLE ONLINE: </b></p><p><b><a href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=42\" target=\"_blank\">Click here to purchase</a></b></p><p><br></p><p>*Class packs do not expire Class packs are non-transferable, non-refundable and cannot be shared.  Prices are subject to change without notice.</p><p><br></p><p>*10% Military Discount available on regular class packages with valid ID.</p><p><br></p><p><span style=\"line-height: 1.5;\">*Unlimited packages start the first day you attend class and cannot be frozen.</span></p><p><br></p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/h93a6485-2000x1340-88.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "YOGA MIX CLASSES",
+          "text": "<p>We off a variety of yoga classes for all levels.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"Classes.html\" data-toolbar=\"-mbrBtnMove\">VIEW OUR CLASSES</a>"
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-0",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yoga-mix080-1400x933-25.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "First class FREE for locals, no registration necessary...just show up!"
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.15",
+            "fontName": {
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-128x128-80.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Bekundalini</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURS &amp; INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Classes.html\">Our Classes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rates.html\">Yoga Mix Rates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-8&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-101&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Yoga Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=42\" target=\"_blank\">Gift Certificates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding_yoga.html\">Wedding Morning Yoga</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">A PROPOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Our Mix</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Mix Info &amp; FAQs</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\">TEMOIGNAGES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">&nbsp;GALLERIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          },
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/beach-2000x453-85.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "GET CONNECTED",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/yoga.mix/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/yogamixjax/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/icon-128x128-7.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1112 Third St #10<br>Neptune Beach, FL 32266<br>LOCATED NEXT TO JARBOE PARK",
+          "text2": "<strong>contact</strong><br><a href=\"mailto:yoga-mix@mail.com\">yoga-mix@mail.com</a><br>\nPhone:&nbsp;904-626-0003",
+          "text3": "<p><strong>Links</strong><br><a href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" target=\"_blank\">SCHEDULE</a><br><a href=\"aboutus.html\">ABOUT US</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></p>"
+        }
+      ]
+    },
+    "aboutus.html": {
+      "settings": {
+        "title": "Yoga Classes | Yoga Studios Jacksonville, Neptune, Atlantic, Ponte Vedra Beach, Florida",
+        "meta_descr": "Enjoy yoga classes at the Jacksonville Beaches&rsquo; best yoga studio &ndash; Yoga Mix in Neptune Beach, Florida. We offer a variety of yoga classes for women, men and kids, including heated power yoga,  &ldquo;mixed&rdquo; level, family-hour, and private.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "header2",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "DIV": {
+              "font-size": "36px"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header2-0",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/yoga-mix033-2000x1334-19.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/h93a6480-1400x953-14.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "map",
+              "family": "et-line",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Yoga Mix is a unique studio space with a&nbsp;<div>passion for allowing your personal practice to unfold.</div>",
+          "text": "Come on out and \"Mix it up on the Mat!\"<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"aboutus..html\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000",
+              "font-size": "46px"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-size": "18px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_name": "header5",
+          "_anchor": "header5-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/h93a6485-2000x1340-71.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#7e9b9f",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "YOGA MIX",
+          "text": "<br>Located in the heart of the Beaches of Jacksonville in Neptune Beach, Florida, Yoga Mix brings a fresh vibe with the unique blend of styles.  We literally \"Mix it up on the Mat\" with a core practice focused on connecting movement to breath transporting you to the natural state of \"letting go.\" Our warm studio atmosphere and inspirational, fun music allows for the entire experience to come together. &nbsp;At Yoga Mix our teachers are encouraged to teach from their heart which translates to an authentic practice for each and every class.<br><br>Yoga Mix <b>believes</b> strongly in the power of being in tune to our own bodies and will always offer permission language to listen to what your body is saying.  Students will be encouraged to modify, rest and hydrate if that is what your body is calling for or to go for your  fullest expression if your practice is ready.  Allowing for a judgement free space to practice and working toward a balance between ease and effort is what <b>Yoga</b> <b>Mix</b> will bring to you.  <br><br>There is always something going on at the Mix.  Check out our<a href=\"https://clients.mindbodyonline.com/classic/home?studioid=20586\" target=\"_blank\"> </a><b><a href=\"https://clients.mindbodyonline.com/ASP/main_enroll.asp?studioid=20586&amp;tg=&amp;vt=&amp;lvl=&amp;stype=-8&amp;view=day&amp;trn=0&amp;page=&amp;catid=&amp;prodid=&amp;date=1%2f18%2f2017&amp;classid=0&amp;prodGroupId=&amp;sSU=&amp;optForwardingLink=&amp;qParam=&amp;justloggedin=&amp;nLgIn=&amp;pMode=0&amp;loc=1\" target=\"_blank\">workshops/events</a></b> page to catch the lastest happenings.  We offer a variety of workshops and events including Yoga Basics, SUP-Yoga, Acro-Yoga, Arm Balance &amp; Inversion Workshops.  Be sure to catch special events including  Kids Yoga, LIVE Music &amp; donation based classes &amp; visits from Master Teachers  &amp; musicians such as Krishna Das, Bryan Kest, Eric Paskel, Tiffany Cruikshank, Bri Smyth &amp; Dice lida-Klein.  Check  back  frequently to stay up on all of the lastest happenings! &nbsp;<br> <br><b>Yoga Mix has been voted&nbsp;#1 in 904 5 years running and BEST IN JAX 2015&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000",
+              "font-size": "46px"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-size": "16px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "48px"
+            },
+            ".mbr-section-lead B": {
+              "color": "#000000",
+              "font-size": "17px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "46px"
+            }
+          },
+          "_name": "header5",
+          "_anchor": "header5-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/h93a6568-2000x1335-84.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#ffffff",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "All you need is an open mind,&nbsp;<div>a willing heart and  a desire to explore.</div>",
+          "text": "<b>What style of yoga can I expect to practice?  <br></b>We will practice a Mix of styles blending all that is great about yoga following a vinyasa flow.  <br><br><b>What should I wear? <br></b>Wear comfortable attire suitable for working out.  <br><br><b>What should I bring? <br></b>Please bring a water bottle, hand towel, beach towel,  &amp; a yoga mat (If you need to rent a yoga mat, they are available at studio, if you do not own one). <br><br><b>What time will the studio open prior to scheduled classes? <br></b>The studio will be open 15-20 minutes prior to scheduled class time.  <br><br><b>Can I come in late once a class has started? <br></b>It is suggested that you arrive 10-15 minutes before scheduled class time.  If you cannot, no worries but once class has started we will lock the doors.  This is for the safety of our belongings as well as allowing the students to settle in to their practice without distraction.<br><br><b>Can I leave early prior to savasana?  <br></b>It is highly recommended that you stay all the way through savasana, it's the best part of the practice as well as most important posture.  If you must leave prior to savasana please let your instructor know prior to class.  Again, doors will be locked for the safety of our belongings as well as honoring our neighbors during the final resting pose allowing each &amp; every person the beauty of a peaceful savasana.  <br><br><b>What if I am new to yoga? <br></b>Welcome!  Yoga Mix highly recommends you start with our Mind Body or Mixed Level  classes if you are new to the practice.  <br><br><b>How do I know if there have been changes to the schedule? </b><br>The \"schedule\" tab will always show the latest class days &amp; times.  <br><br><b>What ages are appropriate for classes? </b><br>Students ages 13 &amp; up may practice regularly scheduled classes with signed waiver from parent or guardian.    <br><br><b>Is it okay to eat prior to practicing yoga? </b><br>We suggest not eating one hour prior to practicing.  Be sure to drink plenty of fluids before, during and after class.<br><br><b>Will music be used during class? </b><br>YES!  At Yoga Mix music is a big part of our flow.  Mixing breath, postures, music &amp; connecting together is what we love! We want to know what moves you and what you want in your Mix!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-0",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yoga-mix080-1400x933-25.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "First class FREE for locals, no registration necessary...just show up!"
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.15",
+            "fontName": {
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-128x128-80.png",
+              "height": 128,
+              "alt": "",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Bekundalini</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURS &amp; INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Classes.html\">Our Classes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rates.html\">Yoga Mix Rates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-8&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-101&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Yoga Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=42\" target=\"_blank\">Gift Certificates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding_yoga.html\">Wedding Morning Yoga</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">A PROPOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Our Mix</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Mix Info &amp; FAQs</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\">TEMOIGNAGES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">&nbsp;GALLERIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/beach-2000x453-63.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "GET CONNECTED",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/yoga.mix/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/yogamixjax/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/icon-128x128-7.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1112 Third St #10<br>Neptune Beach, FL 32266<br>LOCATED NEXT TO JARBOE PARK",
+          "text2": "<strong>contact</strong><br><a href=\"mailto:yoga-mix@mail.com\">yoga-mix@mail.com</a><br>\nPhone:&nbsp;904-626-0003",
+          "text3": "<p><strong>Links</strong><br><a href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" target=\"_blank\">SCHEDULE</a><br><a href=\"aboutus.html\">ABOUT US</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></p>"
+        }
+      ]
+    },
+    "Classes.html": {
+      "settings": {
+        "title": "Yoga Classes | Yoga Studios Jacksonville, Neptune, Atlantic, Ponte Vedra Beach, Florida",
+        "meta_descr": "Enjoy yoga classes at the Jacksonville Beaches&rsquo; best yoga studio &ndash; Yoga Mix in Neptune Beach, Florida. We offer a variety of yoga classes for women, men and kids, including heated power yoga,  &ldquo;mixed&rdquo; level, family-hour, and private.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-0",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/h93a6485-2000x1340-885.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#7e9b9f",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "YOGA MIX CLASSES",
+          "text": "<p>We off a variety of yoga classes for all levels.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            "P": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "14px",
+              "color": "#acacac"
+            },
+            "H4": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#9c9a9a"
+            }
+          },
+          "_anchor": "features1-0",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/h93a6362-600x408-34.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Mixed Level Yoga",
+          "subtitle1": "&nbsp;1 hour &amp; 15 minutes<br>heated 80-85",
+          "caption1": "Our \"Mixed\" Level class offers a wonderful combination of movement through postures, breath work and lengthening of the muscles. The room is kept in the 80s, just enough to warm the body and aid in the muscles to open. This class is great for anyone who is new to yoga as well as athletes who need a lighter day to restore and increase flexibility.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW SCHEDULE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/h93a6307-600x408-27.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Power Hour",
+          "subtitle2": "1 hour<br>sweat factor 85-95",
+          "caption2": "Power Hour offers you 60 minutes of a total body workout with a complete yoga practice in a warm room around 90-94 degrees. Through the connection of breath and movement, you will elongate the muscles, build strength and work balance. You will leave feeling refreshed and invigorated.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW SCHEDULE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/h93a6435-600x408-6.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Yogalates",
+          "subtitle3": "&nbsp;1 hr &nbsp;to &nbsp;1hr 15 mins<br>heated 80-85",
+          "caption3": "&nbsp;When we combine Yoga and Pilates, you get Yogalates which is a fantastic combination that gives you a supple, healthy body and stress free mind. Most of the Yogalates exercises focus on the core abdominal muscles while working other parts of the body at the same time.&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW SCHEDULE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/h93a6405-2-600x408-37.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Yoga Core Fushion",
+          "subtitle4": "&nbsp;1 hour<br>sweat factor 85-95",
+          "caption4": "In this soulful and athletic practice you will fuse flow yoga with intense core work for the ultimate mind body experience. Sun-salutations and warrior poses are woven with sequences of isolated arm, thigh and ab work as you build the heat, then reward yourself with a restful savasana finish. This uplifting core yoga class will leave you strengthened, stretched, and sweaty!",
+          "button4": "<a data-app-btn=\"true\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW SCHEDULE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/h93a6500-600x408-32.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "&nbsp;Jivamukti Yoga",
+          "subtitle5": "1 hour &amp; 15 minutes<br>heated 80-85",
+          "caption5": "Jivamukti Yoga is a vigorously physical and intellectually stimulating yoga classes. Asana sequences are adeptly woven together to fantastical soundtracks that are uplifting and inspirational - from Indian mantra ragas to spoken word to modern day rock &amp; soul.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://clients.mindbodyonline.com/classic/home?studioid=20586\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW SCHEDULE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            },
+            "P": {
+              "color": "#acacac",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#acacac"
+            },
+            "H5": {
+              "color": "#acacac"
+            }
+          },
+          "_anchor": "features1-1",
+          "_params": {
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/h93a6562-600x408-89.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Flow &amp; Go",
+          "subtitle1": "1 hour<br>heated 80-85",
+          "caption1": "This fusion of vinyasa and calisthenics is designed to build strength and increase endurance. Boost metabolism and build lean muscle mass through a coordination of movement and breath. You will tone, lengthen, and leave dripping in sweat. We'll wake up with Sun Salutations, incorporate core strengthening postures as well as mixing in strength training moves like lunges and squats. Start your day powerfully at Yoga Mix's Flow &amp; Go! ",
+          "button1": "<a data-app-btn=\"true\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW SCHEDULE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/h93a6414-600x412-97.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Lunch Power Hour",
+          "subtitle2": "1 hour<br>sweat factor 85-95",
+          "caption2": "Power Hour offers you 60 minutes of a total body workout with a complete yoga practice in a warm room around 90-94 degrees. Through the connection of breath and movement, you will elongate the muscles, build strength and work balance. You will leave feeling refreshed and invigorated.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW SCHEDULE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/h93a6480-600x408-78.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Community Meditation",
+          "subtitle3": "30 minutes (free)<br>non-heated",
+          "caption3": "Sitting meditation is like returning home to give full attention to and care for ourself. You do not have to stay the entire time, come and go as you please but we do ask that you do so as quietly as possible. There will be an instructor present to pull you gently out of meditation if you choose to stay the entire 30 minutes. Blankets, blocks and bolsters are available. This unguided mediation is open FREE to our community.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW SCHEDULE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/h93a6317-600x408-42.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "&nbsp;Yin-Flow-Restore",
+          "subtitle4": "1 hour &amp; 15 minutes<br>non-heated",
+          "caption4": "Return to your center by practicing Yin Yoga, transitioning into a gentle vinyasa flow and sealing your practice with completely supported restorative postures. Treat your body and mind as you indulge in this yoga dessert.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW SCHEDULE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/h93a6386-600x408-54.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Yoga for Athletes",
+          "subtitle5": "1 hour<br>heated 80-85",
+          "caption5": "Are you a golfer, runner, swimmer, Crossfit competitor or any other sport participant? This class is for anyone who lives an active lifestyle that is in search of a workout that incorporates playfulness and long stretches with a focus on shoulders, hips and hamstrings. This is your chance to fall in love with a practice that increases your athletic ability through both the mind and body.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://clients.mindbodyonline.com/classic/home?studioid=20586\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW SCHEDULE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
+          "_anchor": "features1-0",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/h93a6500-600x408-24.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Jivamukti Yoga",
+          "subtitle1": "1 hour &amp; 15 minutes<div>heated 80-85</div>",
+          "caption1": "Jivamukti Yoga is a vigorously physical and intellectually stimulating yoga classes. Asana sequences are adeptly woven together to fantastical soundtracks that are uplifting and inspirational - from Indian mantra ragas to spoken word to modern day rock &amp; soul.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW SCHEDULE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/giftcertificates-600x408-99.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Wedding Morning Yoga",
+          "subtitle2": "Times + Locations<br><div>can vary.</div>",
+          "caption2": "Wedding Morning Yoga offers the perfect start to your special day. We customize the practice to meet your specific needs along with the needs of your guests. Take a moment to embrace the biggest day of your life. ",
+          "button2": "<a data-app-btn=\"true\" href=\"wedding_yoga.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ MORE INFO</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/h93a6352-600x408-51.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Mind Body Yoga",
+          "subtitle3": "1 hour &amp; 15 minutes<br>non-heated<br><div><br></div>",
+          "caption3": "Our Mind Body class is what many consider \"Hatha\" yoga; the focus is on safe alignment, breath awareness, deep stretching and stress relief. The studio is warmed enough to offer a safe and comfortable stretch but not hot. Take advantage of this amazing class that will leave you with a beautiful Mind Body connection.<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW SCHEDULE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/h93a6568-600x400-71.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Gift Certificates",
+          "subtitle4": "Available to purchase online",
+          "caption4": "Yoga Mix gift certificates are the perfect gift for current yogis, moms, dads, brothers, sisters and friends who already love yoga or would love to try it for the first time. Availble in many increments!<br><br>*Prices are subject to change without notice.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=42\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY GIFT CERTICATES</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VIEW SCHEDULE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-0",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yoga-mix080-1400x933-25.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "First class FREE for locals, no registration necessary...just show up!"
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.15",
+            "fontName": {
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-128x128-80.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Bekundalini</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURS &amp; INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Classes.html\">Our Classes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rates.html\">Yoga Mix Rates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-8&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-101&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Yoga Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=42\" target=\"_blank\">Gift Certificates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding_yoga.html\">Wedding Morning Yoga</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">A PROPOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Our Mix</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Mix Info &amp; FAQs</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\">TEMOIGNAGES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">&nbsp;GALLERIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/beach-2000x453-19.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "GET CONNECTED",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/yoga.mix/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/yogamixjax/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/icon-128x128-7.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1112 Third St #10<br>Neptune Beach, FL 32266<br>LOCATED NEXT TO JARBOE PARK",
+          "text2": "<strong>contact</strong><br><a href=\"mailto:yoga-mix@mail.com\">yoga-mix@mail.com</a><br>\nPhone:&nbsp;904-626-0003",
+          "text3": "<p><strong>Links</strong><br><a href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" target=\"_blank\">SCHEDULE</a><br><a href=\"aboutus.html\">ABOUT US</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></p>"
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "title": "Contact Yoga Mix",
+        "meta_descr": "Yoga Classes | Yoga Studios Jacksonville, Neptune, Atlantic, Ponte Vedra Beach, Florida. 1112 Third Street, Ste. 11-12 Neptune Beach, FL 32266 904-626-0003",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-6",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/yoga-mix052b-2000x1278-85.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "WELCOME, YOGIS!",
+          "text": "FIRST CLASS FREE FOR NEW STUDENTS<br><br>1112 Third Street #10<br>Neptune Beach, FL 32266<br>LOCATED NEXT TO JARBOE PARK<br><br>We will see you on the mat.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"mailto:yoga-mix@mail.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SEND US AN EMAIL</a> "
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-5",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yoga-mix080-1400x933-25.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "First class FREE for locals, no registration necessary...just show up!"
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-6",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.15",
+            "fontName": {
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-128x128-80.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Bekundalini</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURS &amp; INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Classes.html\">Our Classes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rates.html\">Yoga Mix Rates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-8&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-101&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Yoga Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=42\" target=\"_blank\">Gift Certificates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding_yoga.html\">Wedding Morning Yoga</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">A PROPOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Our Mix</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Mix Info &amp; FAQs</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\">TEMOIGNAGES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">&nbsp;GALLERIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-7",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/beach-2000x453-28.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "GET CONNECTED",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/yoga.mix/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/yogamixjax/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-8",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/icon-128x128-7.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1112 Third St #10<br>Neptune Beach, FL 32266<br>LOCATED NEXT TO JARBOE PARK",
+          "text2": "<strong>contact</strong><br><a href=\"mailto:yoga-mix@mail.com\">yoga-mix@mail.com</a><br>\nPhone:&nbsp;904-626-0003",
+          "text3": "<p><strong>Links</strong><br><a href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" target=\"_blank\">SCHEDULE</a><br><a href=\"aboutus.html\">ABOUT US</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></p>"
+        }
+      ]
+    },
+    "giftcertificate.html": {
+      "settings": {
+        "title": "Yoga Classes | Yoga Studios Jacksonville, Neptune, Atlantic, Ponte Vedra Beach, Florida",
+        "meta_descr": "Enjoy yoga classes at the Jacksonville Beaches&rsquo; best yoga studio &ndash; Yoga Mix in Neptune Beach, Florida. We offer a variety of yoga classes for women, men and kids, including heated power yoga,  &ldquo;mixed&rdquo; level, family-hour, and private.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "header1-u",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/weddingbeachyoga-2000x1339-1.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "GIFT CERTIFICATES",
+          "text": "Give the gift of health and vibrancy. &nbsp;<br><br>Yoga Mix gift certificates are the perfect gift for current yogis, moms, dads, brothers, sisters and friends who already love yoga or would love to try it for the first time. Availble in many increments!<br><br>*Prices are subject to change without notice.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=42\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PURCHASE GIFT CERTIFICATES</a>  "
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-r",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.15",
+            "fontName": {
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-128x128-80.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Bekundalini</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURS &amp; INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Classes.html\">Our Classes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rates.html\">Yoga Mix Rates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-8&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-101&amp;sView=day&amp;sLoc=0\" target=\"_blank\">Yoga Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=42\" target=\"_blank\">Gift Certificates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding_yoga.html\">Wedding Morning Yoga</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">A PROPOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Our Mix</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Mix Info &amp; FAQs</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\">TEMOIGNAGES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\" aria-expanded=\"false\">&nbsp;GALLERIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/beach-2000x453-95.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "GET CONNECTED",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/yoga.mix/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/yogamixjax/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-t",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/icon-128x128-7.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1112 Third St #10<br>Neptune Beach, FL 32266<br>LOCATED NEXT TO JARBOE PARK",
+          "text2": "<strong>contact</strong><br><a href=\"mailto:yoga-mix@mail.com\">yoga-mix@mail.com</a><br>\nPhone:&nbsp;904-626-0003",
+          "text3": "<p><strong>Links</strong><br><a href=\"https://clients.mindbodyonline.com/classic/ws?studioid=20586&amp;stype=-7&amp;sView=week&amp;sLoc=0\" target=\"_blank\">SCHEDULE</a><br><a href=\"aboutus.html\">ABOUT US</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></p>"
+        }
+      ]
+    }
+  }
+}
